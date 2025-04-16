@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ariakit/react": "^0.4.15",
+    "@ariakit/react": "^0.4.16",
     "performance-now": "^2.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
